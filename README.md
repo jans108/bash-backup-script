@@ -32,7 +32,7 @@ An end-to-end Bash script designed to automate daily backups of files modified w
 
 1. Clone the repository using your Git credentials, for example:
    ```bash
-   git clone https://github.com/your-username/bash-backup-script.git
+   git clone https://github.com/jans108/bash-backup-script.git
    cd bash-backup-script
    ```
 2. Make the script executable by running:
