@@ -56,7 +56,4 @@ I developed a fully automated backup solution in Bash that performs incremental 
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the project, make improvements such as S3 upload integration or enhanced logging, and submit a pull request for review.
 
-## License
-
-This project is licensed under the MIT License. Refer to the LICENSE file for full terms and conditions.
 
