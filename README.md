@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An end-to-end Bash script designed to automate daily backups of files modified within the last 24 hours. This tool demonstrates advanced shell scripting techniques, robust error handling, and seamless Git/GitHub integration—ideal for showcasing DevOps and automation skills to recruiters.
+An end-to-end Bash script designed to automate daily backups of files modified within the last 24 hours.
 
 ## Key Highlights
 
